@@ -1,3 +1,3 @@
 # DSA-Assignments
 
-This Repo consists of all my assignment submission of Data Structures and Algo. class.
+This Repo consists of all my assignment submission and practice of Data Structures and Algorithms.
